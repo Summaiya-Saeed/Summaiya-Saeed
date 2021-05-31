@@ -35,7 +35,6 @@
 [<img align="left" alt="Summaiya-Saeed Instagram" height="30px" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="left" alt="Summaiya-Saeed Facebook" height="30px" width="100px" src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 [<img align="left" alt="Summaiya-Saeed Facebook" height="30px" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />][hackerrank]
-[<img align="left" alt="Summaiya-Saeed Facebook" height="30px" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />][gmail]
 <br />
 
 

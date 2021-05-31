@@ -16,7 +16,6 @@
 
 ## ⚡ Skills and Languages
 ![Python3](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-276DC2?style=flat-square&logo=C&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092e20?style=flat-square&logo=Django&logoColor=white)
 ![PyQT](https://img.shields.io/badge/PyQt-0d544f?style=flat-square&logo=Qt&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-3859a3?style=flat-square&logo=Tkinter&logoColor=white)
@@ -26,8 +25,7 @@
 ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-![ADOBE_ILLUSTRATOR](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white)
-![ADOBE_PHOTOSHOP](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black)
+
 
 ## 🌐 Connect with me
 [<img align="left" alt="Summaiya-Saeed Twitter" height="30px" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]

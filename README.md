@@ -14,6 +14,7 @@
 
 ## ⚡ Skills and Languages
 ![Python3](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node JS](https://img.shields.io/badge/NodeJS-3776AB?style=flat-square&logo=NodeJS&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-4479A1?style=flat-square&logo=Sequelize&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-4479A1?style=flat-square&logo=Postman&logoColor=white)

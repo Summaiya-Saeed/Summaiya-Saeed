@@ -14,6 +14,7 @@
 
 ## ⚡ Skills and Languages
 ![Python3](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node JS](https://img.shields.io/badge/NodeJS-3776AB?style=flat-square&logo=NodeJS&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092e20?style=flat-square&logo=Django&logoColor=white)
 ![PyQT](https://img.shields.io/badge/PyQt-0d544f?style=flat-square&logo=Qt&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-3859a3?style=flat-square&logo=Tkinter&logoColor=white)
@@ -32,12 +33,7 @@
 
 <br />
 
-
-## &#x1f4c8; GitHub Stats
-![Summaiya-Saeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Summaiya-Saeed&show_icons=true&theme=gotham)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Summaiya-Saeed&show_icons=true&locale=en&layout=compact&theme=radical" width=60% />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Summaiya-Saeed&theme=radical"  width=60% />
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Summaiya-Saeed&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+ 
 
 
 

@@ -33,7 +33,7 @@
 ## 🌐 Connect with me
 
 [<img align="left" alt="Summaiya-Saeed LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="Summaiya-Saeed Facebook" height="30px" width="100px" src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+
 
 <br />
 
@@ -42,8 +42,8 @@
 
 
 
-[linkedin]: https://www.linkedin.com
-[facebook]: https://www.facebook.com
+[linkedin]: www.linkedin.com/in/summaiya-saeed-3775a0178
+
 
 
 

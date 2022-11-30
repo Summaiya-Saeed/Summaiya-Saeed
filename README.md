@@ -6,7 +6,7 @@
 
 <br />
 <ul>
-<li>👷 completed my BS in Software Engineering(2018-2022) NED(UIT). </li>
+<li>👷 completed my BS in Software Engineering NED(UIT). </li>
 <li>💼 Currently Working as a junior Software Engineer at <a href="http://www.CSquare.co"> C square consulting </a>. </li>
 </ul>
 
@@ -26,11 +26,10 @@
 
 
 ## 🌐 Connect with me
-[<img align="left" alt="Summaiya-Saeed Twitter" height="30px" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
+
 [<img align="left" alt="Summaiya-Saeed LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="Summaiya-Saeed Instagram" height="30px" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="left" alt="Summaiya-Saeed Facebook" height="30px" width="100px" src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
-[<img align="left" alt="Summaiya-Saeed Facebook" height="30px" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />][hackerrank]
+
 <br />
 
 
@@ -41,11 +40,11 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Summaiya-Saeed&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
 
-[twitter]: https://twitter.com/
-[instagram]: https://instagram.com
+
+
 [linkedin]: https://www.linkedin.com
 [facebook]: https://www.facebook.com
-[hackerrank]: https://www.hackerrank.com
+
 
 
 

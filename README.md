@@ -6,10 +6,8 @@
 
 <br />
 <ul>
-<li>👷 Currently pursuing BSc in Software Engineering(2018-2022) from Usman Institure of Technology. </li>
-<li>💼 Working as Research Intern at <a href="https://github.com/merledu"> Micro Electronics Research Lab (MERL-UIT)</a>. </li>
-<li>🔭 Started Working On Python Data Science and AI</li>
-<li>🌱 Tech Geek, always ready to learn new Technologies/Frameworks/Languages.</li>
+<li>👷 completed my BS in Software Engineering(2018-2022) NED(UIT). </li>
+<li>💼 Currently Working as a junior Software Engineer at <a href="http://www.CSquare.co"> C square consulting </a>. </li>
 </ul>
 
 </div>

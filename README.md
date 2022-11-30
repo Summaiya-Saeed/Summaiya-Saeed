@@ -15,6 +15,9 @@
 ## ⚡ Skills and Languages
 ![Python3](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node JS](https://img.shields.io/badge/NodeJS-3776AB?style=flat-square&logo=NodeJS&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-4479A1?style=flat-square&logo=Sequelize&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-4479A1?style=flat-square&logo=Postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST API-4479A1?style=flat-square&logo=REST API&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092e20?style=flat-square&logo=Django&logoColor=white)
 ![PyQT](https://img.shields.io/badge/PyQt-0d544f?style=flat-square&logo=Qt&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-3859a3?style=flat-square&logo=Tkinter&logoColor=white)

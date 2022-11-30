@@ -1,4 +1,4 @@
-## || Programmer,Python GUI Developer, Software Engineer to-be ||
+## || Software Engineer ||
 
 <div>
 
